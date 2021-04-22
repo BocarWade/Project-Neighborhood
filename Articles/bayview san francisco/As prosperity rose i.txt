@@ -1,0 +1,41 @@
+As prosperity rose in many metro areas, neighborhood divides widened
+Sarah Crump, Alan Berube
+2021-03-30T16:15:38Z
+----------------------------
+The nation’s large metro areas have long housed both wealthy and poor households, and this socioeconomic diversity has underpinned much of their social and economic vitality. However, persistent economic segregation—the tendency of households in different economic classes to live mostly among others of the same class—poses a real threat to regional economic health and upward mobility. High degrees of spatial inequality across the United States can be attributed to factors such as historical settlement patterns, migration trends, and local housing policy and zoning restrictions. Individuals living in the most disadvantaged neighborhoods are excluded from the opportunities critical to economic success and mobility.
+
+Our most recent edition of Metro Monitor, which updates data on economic inclusion for 192 U.S. metro areas, assesses metro area performance on geographic inclusion—the degree to which local economic dynamics are widening or narrowing gaps between the most advantaged (top 20%) and least advantaged (bottom 20%) neighborhoods (census tracts) within a region. We assess geographic inclusion across three economic indicators: employment rate, median household income, and relative poverty rate. Our data tracks trends between the end of the 2000s (2005 to 2009) and the end of the 2010s (2015 to 2019).
+
+As an example, Figure 1 illustrates how the Washington, D.C. metro area’s neighborhoods break down by median income, in both 2005-09 and 2015-19. Large parts of Northwest D.C., western Montgomery County, Md., and the northern portions of Arlington and Fairfax counties in Virginia were predominantly high-income in both periods. Most District neighborhoods east of the Anacostia River remained low-income, but more neighborhoods in adjacent Prince George’s County, Md. and the eastern portion of Montgomery County fell into the bottom 20% by income over the decade.
+
+Metro areas made uneven progress across indicators of geographic inclusion
+
+Metro areas posted mixed performance on indicators of geographic inclusion between 2009 and 2019. In general, neighborhood disparities in employment and relative income poverty narrowed in most metro areas, while neighborhood income gaps widened.
+
+Neighborhood employment gaps declined in about two in three metro areas, and neighborhood relative poverty gaps declined in about three in four. While very large, large, and midsized metro areas made consistent progress on reducing relative poverty gaps, the largest metro areas made much more progress on reducing employment gaps than metro areas in other size categories (Figure 2).
+
+Conversely, very large metro areas were the least likely to narrow household income gaps across neighborhoods. In most of these metro areas, incomes in the top 20% of neighborhoods rose by a greater margin than those in the bottom 20%. For instance, in the Greater Seattle area, median incomes in the lowest fifth of neighborhoods rose by $6,000 (from $46,000 to $52,000), but rose by $16,000 (from $122,000 to $138,000) in the highest fifth of neighborhoods. Overall, fewer than one in three metro areas managed to narrow neighborhood income gaps in the 2010s.
+
+Smaller metro areas across the Sun Belt tended to make the most progress on geographic inclusion
+
+The metro areas that made the most long-run progress on geographic inclusion tended to be smaller in terms of population. Overall, 25 metro areas—including midsized metro areas such as Savannah, Ga., Brownsville, Texas, and Vallejo, Calif.—made positive progress across all three dimensions of geographic inclusion from 2009 to 2019.
+
+But 17 metro areas lost ground across all dimensions. Among the metro areas that experienced glaring widening of disparities, the Trenton, N.J. metro area saw its neighborhood income gap increase by just over $17,000 over the decade, and its employment and relative poverty rate gaps increase by 7 percentage points. These trends may reflect the region’s high degree of school district fragmentation and restrictive land use regulations that perpetuate and exacerbate economic segregation.
+
+Of the 20 metro areas making the most progress on geographic inclusion, 15 were located across the Sun Belt, while the majority of metro areas that saw the greatest widening of gaps were located in the Northeast and Midwest (Figure 3). Southern metro areas with noticeable drops in economic segregation included very large metro areas such as New Orleans, Richmond, Va., and Memphis, Tenn.—many of which have experienced decreased Black-white segregation since 2000.
+
+In many of the fastest-growing big metro areas, neighborhood gaps increased
+
+The lack of consistent progress on geographic inclusion in very large metro areas seems to relate to their prosperity dynamics. Specifically, the very large metro areas with the strongest prosperity outcomes actually lost ground on geographic inclusion, experiencing widening gaps in economic outcomes between the most advantaged and least advantaged neighborhoods (Figure 4).
+
+Very large metro areas that made strong progress on prosperity indicators saw more substantial widening of economic gaps across their neighborhoods. In those regions, rising productivity and average wages seem to have mainly benefited already-wealthy neighborhoods, which experienced faster income growth than poorer neighborhoods. Across the top 10 very large metro areas ranking highest on economic prosperity, median household income in the top 20% of neighborhoods rose by an average $16,000 from 2009 to 2019, while median incomes in the bottom 20% of neighborhoods increased by only $6,000 on average.
+
+These patterns, in turn, may reflect the impact of tech-driven regional growth on geographic inclusion. Many of the very large metro areas that ranked highest on prosperity in the 2010s (including San Jose, Calif., San Francisco, Seattle, Boston, and Austin, Texas) possess high concentrations of jobs within the information and professional, scientific, and technical services sectors. As salaries in those sectors ballooned over the past decade, already-large neighborhood economic gaps widened even further.
+
+For instance, in the San Francisco area, earnings ballooned in communities associated with the region’s tech economy and high-income residents, particularly in and around downtown San Francisco and Redwood City/Menlo Park/Palo Alto (Figure 5). Median incomes in the wealthiest 20% of neighborhoods grew by $30,000 over the decade. Lower-income communities not as connected to that economy—such as Bayview/Hunter’s Point in San Francisco, Richmond, and large swaths of Oakland—experienced median income growth of only $9,000 during that same period.
+
+To grow inclusively, metro areas must confront economic segregation
+
+Economic inclusion implies an equitable distribution of opportunities and resources among all residents of a region. Because U.S. regions continue to face high levels of economic segregation, examining economic outcomes across communities through the lens of geographic inclusion provides valuable context for strategies to boost inclusive growth. And across a decade of strong overall economic growth, metro area performance on geographic inclusion was uneven at best, and varied considerably across regions and by industrial specialization.
+
+As metro area economies begin to recover from the COVID-19 pandemic, local leaders must focus on the well-being of traditionally underserved communities and historically marginalized groups to ensure that the next wave of growth begins to close the neighborhood gaps that hold back collective progress.
